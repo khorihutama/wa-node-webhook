@@ -1,8 +1,5 @@
 /*
  * Starter Project for WhatsApp Echo Bot Tutorial
- *
- * Remix this as the starting point for following the WhatsApp Echo Bot tutorial
- *
  */
 
 "use strict";
